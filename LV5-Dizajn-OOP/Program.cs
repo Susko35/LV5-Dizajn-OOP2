@@ -33,6 +33,8 @@ namespace LV5_Dizajn_OOP
             note2.Show();
 
 
+
+
         }
     }
 }
