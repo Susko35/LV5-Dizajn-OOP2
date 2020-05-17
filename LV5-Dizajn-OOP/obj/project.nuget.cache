@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N45No1pg6P3BxnYRxHlCYHfy7+jJUYeV9GDH2t+8fOIxq9uBCvrCwvuw7VrHGCC6aWVAavzjIVQOfUcTBDgujA==",
+  "success": true,
+  "projectFilePath": "D:\\Doop\\LV5-Dizajn-OOP\\LV5-Dizajn-OOP\\LV5-Dizajn-OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anon45\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Anon45\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anon45\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Anon45\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
